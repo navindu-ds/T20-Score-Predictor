@@ -17,7 +17,9 @@ For the test data in order to train the program, ball by ball data from the matc
    3. The IPL provides a platform for both seasoned international players as well as young inexperienced players, hence we a large number of player profiles of all types of skills.
    4. The competitive nature of the IPL provides a near equal competitiveness to events such as a World Cup Tournament.
    5. Non Availability of Datasets for all International Matches.
-   
+
+This dataset was found on Kaggle. (https://www.kaggle.com/datasets/sneharsingh/ipl-dataset2008-may-2021/code)
+
 Our basic assusmption is that the run scoring will be independent of who the teams are, or grounds where they played, or when they have played these matches used in the test data.
 
 Nevertheless, cricket is very unpredictable game which is one of the reasons it is such an enjoyable soprt to watch. Therefore more often than not match predictions will fluctuate as the match further progresses.
